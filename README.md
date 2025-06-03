@@ -26,18 +26,8 @@ Join us as we chart the course towards truly intelligent visual systems!
 ## 📜 Table of Contents
 
 *   [🚀 Prompt-Based Methods for Reasoning with Images](#-prompt-based-methods-for-reasoning-with-images)
-    *   [✍️➡️🤔 Chain-of-Thought and Visual Sketching](#️️-chain-of-thought-and-visual-sketching)
-    *   [🛠️ Tool-Augmented Prompting](#️-tool-augmented-prompting)
-    *   [💻 Programmatic Prompting and Code Execution](#-programmatic-prompting-and-code-execution)
-    *   [🤖 Multimodal Agent Architectures](#-multimodal-agent-architectures)
 *   [🎓 Supervised Fine-Tuning (SFT) based Methods for Reasoning with Images](#-supervised-fine-tuning-sft-based-methods-for-reasoning-with-images)
-    *   [🔗 Vision-Language Chain-of-Thought Supervision](#-vision-language-chain-of-thought-supervision)
-    *   [🔧 Tool-Enhanced Visual Reasoning](#-tool-enhanced-visual-reasoning)
-    *   [🔄 Autoregressive Multimodal Generation in Vision-Language Models](#-autoregressive-multimodal-generation-in-vision-language-models)
 *   [🏆 RL-based Methods for Reasoning with Images](#-rl-based-methods-for-reasoning-with-images)
-    *   [🧩 Tool Use and Visual Interaction](#-tool-use-and-visual-interaction)
-    *   [💡 Cognitive and Intrinsic Reward Strategies](#-cognitive-and-intrinsic-reward-strategies)
-    *   [♻️ Reinforced Multimodal Generation](#️-reinforced-multimodal-generation)
 *   [📚 Related Surveys & Benchmarks](#-related-surveys--benchmarks)
 *   [🤝 Contributing](#-contributing)
 *   [📄 License](#-license)
