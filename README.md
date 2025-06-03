@@ -134,10 +134,5 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 
 
 
----
-
-## ⭐️ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zhaochen0110/Awesome_Think_With_Images&type=Date)](https://www.star-history.com/#zhaochen0110/Awesome_Think_With_Images&Date)
 
 
