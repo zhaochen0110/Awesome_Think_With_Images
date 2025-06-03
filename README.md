@@ -32,9 +32,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 *   [🚀 Prompt-Based Methods for Reasoning with Images](#-prompt-based-methods-for-reasoning-with-images)
 *   [🎓 Supervised Fine-Tuning (SFT) based Methods for Reasoning with Images](#-supervised-fine-tuning-sft-based-methods-for-reasoning-with-images)
 *   [🏆 RL-based Methods for Reasoning with Images](#-rl-based-methods-for-reasoning-with-images)
-*   [📚 Related Surveys & Benchmarks](#-related-surveys--benchmarks)
-*   [🤝 Contributing](#-contributing)
-*   [📄 License](#-license)
+*   [📚 Benchmarks](#-benchmarks)
 
 ---
 
