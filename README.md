@@ -1,13 +1,21 @@
-# Awesome Visual Reasoning 🧠🖼️: Pioneering the Future of AI Perception
+# Thinking with Images for LVLMs: A Survey
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![](https://img.shields.io/github/last-commit/zhaochen0110/Awesome_Think_With_Images?color=green) 
 
-Welcome to **Awesome Visual Reasoning**! This repository is a curated collection of groundbreaking research that explores how we can empower machines to not just *see* images, but to *reason* about them, understand their nuances, and interact with the visual world in increasingly sophisticated ways.
+</div>
 
-Inspired by the human ability to seamlessly blend vision with thought, this list dives into the cutting-edge methods that are pushing the boundaries of AI. From intricate chain-of-thought processes that mimic human problem-solving to models that learn by interacting with visual tools, we're witnessing a revolution in how AI comprehends and generates visual information.
+---
+
+## 🔔 News
+
+- [2025-06] We created this repository to maintain a paper list on Awesome-Think-With-Images.
+  
+Welcome to **Thinking with Images for LVLMs: A Survey**! This repository serves as a curated and comprehensive overview of pivotal research dedicated to enabling Large Vision-Language Models (LVLMs) to truly **think with images**. We delve into how these sophisticated models are evolving beyond mere pattern recognition, acquiring capabilities for intricate reasoning, nuanced understanding, and dynamic interaction by processing and interpreting visual information in cognitive-inspired ways.
 
 This collection is for researchers, developers, and enthusiasts eager to explore the forefront of:
-*   **Prompt-Based Innovation:** How language can guide visual understanding and generation.
+*   **Prompt-Based Innovation:** How LVLMs can guide visual understanding and generation.
 *   **Supervised Fine-Tuning:** Training models with rich, contextual visual data.
 *   **Reinforcement Learning:** Enabling agents to learn through visual interaction and feedback.
 
@@ -19,7 +27,6 @@ Join us as we chart the course towards truly intelligent visual systems!
 
 *   [🚀 Prompt-Based Methods for Reasoning with Images](#-prompt-based-methods-for-reasoning-with-images)
     *   [✍️➡️🤔 Chain-of-Thought and Visual Sketching](#️️-chain-of-thought-and-visual-sketching)
-    *   [🎨 Visual Prompt Engineering](#-visual-prompt-engineering)
     *   [🛠️ Tool-Augmented Prompting](#️-tool-augmented-prompting)
     *   [💻 Programmatic Prompting and Code Execution](#-programmatic-prompting-and-code-execution)
     *   [🤖 Multimodal Agent Architectures](#-multimodal-agent-architectures)
@@ -39,7 +46,7 @@ Join us as we chart the course towards truly intelligent visual systems!
 
 ## 🚀 Prompt-Based Methods for Reasoning with Images
 
-Unlocking visual intelligence through the art and science of prompting. These methods explore how carefully crafted textual or visual cues can guide Large Language Models (LLMs) and Vision-Language Models (VLMs) to perform complex reasoning tasks with images, often without explicit task-specific training.
+Unlocking visual intelligence through the art and science of prompting. These methods explore how carefully crafted textual or visual cues can guide LVLMs to perform complex reasoning tasks with images, often without explicit task-specific training.
 
 ### ✍️➡️🤔 Chain-of-Thought and Visual Sketching
 *Mimicking human step-by-step reasoning, sometimes literally sketching out thoughts, to tackle complex visual problems.*
@@ -51,35 +58,24 @@ Unlocking visual intelligence through the art and science of prompting. These me
 - [Interactive Sketchpad: A Multimodal Tutoring System for Collaborative, Visual Problem-Solving](https://arxiv.org/abs/2503.16434) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search](https://arxiv.org/abs/2504.09130) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration](https://arxiv.org/abs/2411.16044) ![](https://img.shields.io/badge/abs-2024.11-red)
-- [Visual chain-of-thought prompting for knowledge-based visual reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/27916) ![](https://img.shields.io/badge/AAAI-2024-blue)
-
-### 🎨 Visual Prompt Engineering
-*Crafting visual cues or manipulating inputs to elicit desired behaviors and unlock latent capabilities in VLMs.*
-
-- [Promptcap: Prompt-guided task-aware image captioning](https://arxiv.org/abs/2211.09699) ![](https://img.shields.io/badge/abs-2022.11-red)
-- [What does clip know about a red circle? visual prompt engineering for vlms](https://openaccess.thecvf.com/content/ICCV2023/html/Shtedritski_What_Does_CLIP_Know_About_a_Red_Circle_Visual_Prompt_ICCV_2023_paper.html) ![](https://img.shields.io/badge/ICCV-2023-blue)
 - [ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding](https://arxiv.org/abs/2501.05452) ![](https://img.shields.io/badge/abs-2025.01-red)
-- [T2i-r1: Reinforcing image generation with collaborative semantic-level and token-level cot](https://arxiv.org/abs/2505.00703) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](https://arxiv.org/abs/2503.10639) ![](https://img.shields.io/badge/abs-2025.03-red)
-- [3DAxiesPrompts: Unleashing the 3D Spatial Task Capabilities of GPT-4V](https://arxiv.org/abs/2312.09738) ![](https://img.shields.io/badge/abs-2023.12-red)
-- [PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs](https://arxiv.org/abs/2402.15823) ![](https://img.shields.io/badge/abs-2024.02-red)
 
 ### 🛠️ Tool-Augmented Prompting
 *Empowering VLMs by allowing them to leverage external tools (e.g., calculators, search engines, other models) to enhance their reasoning and factual accuracy.*
 
 - [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/abs-2023.03-red)
-- [Socratic models: Composing zero-shot multimodal reasoning with language](https://arxiv.org/abs/2204.00598) ![](https://img.shields.io/badge/abs-2022.04-red)
-- [Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models](https://arxiv.org/abs/2312.03052) ![](https://img.shields.io/badge/abs-2023.12-red)
-- [Promptcap: Prompt-guided task-aware image captioning](https://arxiv.org/abs/2211.09699) ![](https://img.shields.io/badge/abs-2022.11-red)
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) ![](https://img.shields.io/badge/abs-2023.03-red)
+- [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/abs/2310.11441) ![](https://img.shields.io/badge/abs-2023.10-red)
 - [MMFactory: A Universal Solution Search Engine for Vision-Language Tasks](https://arxiv.org/abs/2412.18072) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [VipAct: Visual-perception enhancement via specialized vlm agent collaboration and tool-use](https://arxiv.org/abs/2410.16400) ![](https://img.shields.io/badge/abs-2024.10-red)
 - [Dettoolchain: A new prompting paradigm to unleash detection ability of MLLM](https://arxiv.org/abs/2403.12488) ![](https://img.shields.io/badge/abs-2024.03-red)
-- [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/abs/2310.11441) ![](https://img.shields.io/badge/abs-2023.10-red)
+
 - [Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.15510) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search](https://arxiv.org/abs/2504.09130) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration](https://arxiv.org/abs/2411.16044) ![](https://img.shields.io/badge/abs-2024.11-red)
+
 - [CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers?](https://arxiv.org/abs/2412.13810) ![](https://img.shields.io/badge/abs-2024.12-red)
-- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) ![](https://img.shields.io/badge/abs-2023.03-red)
+
 
 ### 💻 Programmatic Prompting and Code Execution
 *Generating and executing code (e.g., Python) as an intermediate reasoning step, allowing for precise, verifiable, and complex visual operations.*
@@ -99,12 +95,12 @@ Unlocking visual intelligence through the art and science of prompting. These me
 - [Interactive Sketchpad: A Multimodal Tutoring System for Collaborative, Visual Problem-Solving](https://arxiv.org/abs/2503.16434) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [VipAct: Visual-perception enhancement via specialized vlm agent collaboration and tool-use](https://arxiv.org/abs/2410.16400) ![](https://img.shields.io/badge/abs-2024.10-red)
 - [MMFactory: A Universal Solution Search Engine for Vision-Language Tasks](https://arxiv.org/abs/2412.18072) ![](https://img.shields.io/badge/abs-2024.12-red)
-- [Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.15510) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search](https://arxiv.org/abs/2504.09130) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration](https://arxiv.org/abs/2411.16044) ![](https://img.shields.io/badge/abs-2024.11-red)
 - [Visual sketchpad: Sketching as a visual chain of thought for multimodal language models](https://arxiv.org/abs/2406.09403) ![](https://img.shields.io/badge/abs-2024.06-red)
 - [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/abs-2023.12-red)
 
+- [T2i-r1: Reinforcing image generation with collaborative semantic-level and token-level cot](https://arxiv.org/abs/2505.00703) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](https://arxiv.org/abs/2503.10639) ![](https://img.shields.io/badge/abs-2025.03-red)
 ---
 
 ## 🎓 Supervised Fine-Tuning (SFT) based Methods for Reasoning with Images
@@ -208,29 +204,10 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 - [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444) ![](https://img.shields.io/badge/abs-2025.05-red)
 
 
----
-
-## 🤝 Contributing
-
-This field is evolving at an incredible pace! If you've come across a groundbreaking paper, a new technique, or an insightful benchmark that belongs here, please feel free to:
-1.  **Fork** the repository.
-2.  **Add** your paper(s) to the relevant section(s) in `README.md`. Please maintain the existing format:
-    ```markdown
-    - [Paper Title](Link to Paper) ![](https://img.shields.io/badge/abs-YYYY.MM-red) 
-    ```
-    (Use `![](https://img.shields.io/badge/VENUE-YYYY-blue)` if it's a conference paper without a YYYY.MM arXiv ID, e.g., `![](https://img.shields.io/badge/CVPR-2023-blue)`).
-3.  **Create a Pull Request.**
-
-We highly encourage contributions that help keep this list comprehensive and up-to-date. Let's build the ultimate resource for visual reasoning together!
 
 ---
 
-## 📄 License
+<!-- ## ⭐️ Star History
 
-This Awesome list is shared under the [Creative Commons CC0 Universal License](LICENSE) (effectively public domain), meaning you can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
----
-
+[![Star History Chart](https://api.star-history.com/svg?repos=zhaochen0110/Awesome_Think_With_Images&type=Date)](https://star-history.com/#zhaochen0110/Awesome_Think_With_Images&Date) -->
 *Let's make machines that not only see, but truly understand.*
