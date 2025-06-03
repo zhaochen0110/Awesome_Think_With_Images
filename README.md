@@ -10,14 +10,13 @@
 
 </div>
 
-Welcome to **Thinking with Images for LVLMs: A Survey**! This repository serves as a curated and comprehensive overview of pivotal research dedicated to enabling Large Vision-Language Models (LVLMs) to truly **think with images**. We delve into how these sophisticated models are evolving beyond mere pattern recognition, acquiring capabilities for intricate reasoning, nuanced understanding, and dynamic interaction by processing and interpreting visual information in cognitive-inspired ways.
+Welcome to **Thinking with Images for LVLMs: A Survey**! This repository serves as the first systematic and comprehensive overview of pivotal research dedicated to enabling Large Vision-Language Models (LVLMs) to truly think with images. We delve into how these sophisticated models are evolving beyond mere pattern recognition, acquiring capabilities for intricate reasoning, nuanced understanding, and dynamic interaction by processing and interpreting visual information in cognitive-inspired ways.
 
 This collection is for researchers, developers, and enthusiasts eager to explore the forefront of:
 *   **Prompt-Based Innovation:** How LVLMs can guide visual understanding and generation.
 *   **Supervised Fine-Tuning:** Training models with rich, contextual visual data.
 *   **Reinforcement Learning:** Enabling agents to learn through visual interaction and feedback.
 
-Join us as we chart the course towards truly intelligent visual systems!
 
 ---
 
@@ -141,4 +140,5 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 <!-- ## ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zhaochen0110/Awesome_Think_With_Images&type=Date)](https://star-history.com/#zhaochen0110/Awesome_Think_With_Images&Date) -->
+
 *Let's make machines that not only see, but truly understand.*
