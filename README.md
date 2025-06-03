@@ -124,14 +124,14 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 ## 📚 Benchmarks
 *Essential resources for understanding the broader landscape and evaluating progress in visual reasoning.*
 
-- [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) ![](https://img.shields.io/badge/abs-2025.04-red)
-- [PointArena: Probing Multimodal Grounding Through Language-Guided Pointing](https://arxiv.org/abs/2505.09990) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks](https://arxiv.org/abs/2407.18809) ![](https://img.shields.io/badge/ECCV-2024-blue)
-- [MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models](https://arxiv.org/abs/2504.03641) ![](https://img.shields.io/badge/abs-2025.04-red)
-- [ARC Prize 2024: Technical Report](https://arxiv.org/abs/2412.04604) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models](https://arxiv.org/abs/2402.18409) ![](https://img.shields.io/badge/abs-2024.02-red)
+- [m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks](https://arxiv.org/abs/2403.11085) ![](https://img.shields.io/badge/abs-2024.03-red)
 - [Vgbench: Evaluating large language models on vector graphics understanding and generation](https://arxiv.org/abs/2407.10972) ![](https://img.shields.io/badge/abs-2024.07-red)
+- [ARC Prize 2024: Technical Report](https://arxiv.org/abs/2412.04604) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation](https://arxiv.org/abs/2504.00043) ![](https://img.shields.io/badge/abs-2025.04-red)
+- [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) ![](https://img.shields.io/badge/abs-2025.04-red)
+- [MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models](https://arxiv.org/abs/2504.03641) ![](https://img.shields.io/badge/abs-2025.04-red)
+- [PointArena: Probing Multimodal Grounding Through Language-Guided Pointing](https://arxiv.org/abs/2505.09990) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444) ![](https://img.shields.io/badge/abs-2025.05-red)
 
 
