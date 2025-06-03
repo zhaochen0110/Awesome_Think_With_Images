@@ -38,10 +38,10 @@ Join us as we chart the course towards truly intelligent visual systems!
 
 Unlocking visual intelligence through the art and science of prompting. These methods explore how carefully crafted textual or visual cues can guide LVLMs to perform complex reasoning tasks with images, often without explicit task-specific training.
 
+- [Visual programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) ![](https://img.shields.io/badge/abs-2022.11-red)
 - [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/abs-2023.03-red)
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) ![](https://img.shields.io/badge/abs-2023.03-red)
-- [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/abs/2303.08128) ![](https://img.shields.io/badge/ICCV-2023-blue)
-- [Visual programming: Compositional visual reasoning without training](https://openaccess.thecvf.com/content/CVPR2023/html/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.html) ![](https://img.shields.io/badge/CVPR-2023-blue)
+- [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/abs/2303.08128) ![](https://img.shields.io/badge/abs-2023.03-red)
 - [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/abs/2310.11441) ![](https://img.shields.io/badge/abs-2023.10-red)
 - [Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models](https://arxiv.org/abs/2312.03052) ![](https://img.shields.io/badge/abs-2023.12-red)
 - [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/abs-2023.12-red)
@@ -66,12 +66,12 @@ Unlocking visual intelligence through the art and science of prompting. These me
 
 Tailoring pre-trained models for visual reasoning through targeted fine-tuning on specialized datasets. This approach leverages instruction-following data and demonstrations of reasoning steps to enhance model capabilities.
 
-- [Generating images with multimodal language models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/38bb589cbc673b7f8a192375841a0033-Abstract-Conference.html) ![](https://img.shields.io/badge/NeurIPS-2023-blue)
+- [Generating images with multimodal language models](https://arxiv.org/abs/2305.17216) ![](https://img.shields.io/badge/abs-2023.05-red)
 - [Minigpt-5: Interleaved vision-and-language generation via generative vokens](https://arxiv.org/abs/2310.02239) ![](https://img.shields.io/badge/abs-2023.10-red)
 - [LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents](https://arxiv.org/abs/2311.05437) ![](https://img.shields.io/badge/abs-2023.11-red)
+- [Generative multimodal models are in-context learners](https://arxiv.org/abs/2312.13286) ![](https://img.shields.io/badge/abs-2023.12-red)
 - [CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations](https://arxiv.org/abs/2402.04236) ![](https://img.shields.io/badge/abs-2024.02-red)
 - [Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models](https://arxiv.org/abs/2403.01299) ![](https://img.shields.io/badge/abs-2024.03-red)
-- [Generative multimodal models are in-context learners](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_Generative_Multimodal_Models_Are_In-Context_Learners_CVPR_2024_paper.html) ![](https://img.shields.io/badge/CVPR-2024-blue)
 - [Chameleon: Mixed-modal early-fusion foundation models](https://arxiv.org/abs/2405.09818) ![](https://img.shields.io/badge/abs-2024.05-red)
 - [Instruction-Guided Visual Masking](https://arxiv.org/abs/2405.19783) ![](https://img.shields.io/badge/abs-2024.05-red)
 - [Anole: An open, autoregressive, native large multimodal models for interleaved image-text generation](https://arxiv.org/abs/2407.06135) ![](https://img.shields.io/badge/abs-2024.07-red)
@@ -116,24 +116,17 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 
 ---
 
-## 📚 Related Surveys & Benchmarks
+## 📚 Benchmarks
 *Essential resources for understanding the broader landscape and evaluating progress in visual reasoning.*
 
 - [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [PointArena: Probing Multimodal Grounding Through Language-Guided Pointing](https://arxiv.org/abs/2505.09990) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges](https://arxiv.org/abs/2412.11936) ![](https://img.shields.io/badge/abs-2024.12-red)
-- [Visual scratchpads: Enabling global reasoning in vision](https://arxiv.org/abs/2410.08165) ![](https://img.shields.io/badge/abs-2024.10-red)
-- [VisFactor: Benchmarking Fundamental Visual Cognition in Multimodal Large Language Models](https://arxiv.org/abs/2502.16435) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks](https://arxiv.org/abs/2407.18809) ![](https://img.shields.io/badge/ECCV-2024-blue)
 - [MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models](https://arxiv.org/abs/2504.03641) ![](https://img.shields.io/badge/abs-2025.04-red)
-- [Euclid: Supercharging Multimodal LLMs with Synthetic High-Fidelity Visual Descriptions](https://arxiv.org/abs/2412.08737) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [ARC Prize 2024: Technical Report](https://arxiv.org/abs/2412.04604) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models](https://arxiv.org/abs/2402.18409) ![](https://img.shields.io/badge/abs-2024.02-red)
 - [Vgbench: Evaluating large language models on vector graphics understanding and generation](https://arxiv.org/abs/2407.10972) ![](https://img.shields.io/badge/abs-2024.07-red)
-- [Elevating Visual Question Answering through Implicitly Learned Reasoning Pathways in LVLMs](https://arxiv.org/abs/2503.14674) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation](https://arxiv.org/abs/2504.00043) ![](https://img.shields.io/badge/abs-2025.04-red)
-- [A Review on Vision-Language-Based Approaches: Challenges and Applications.](https://www.techscience.com/cmc/v82n2/57843) ![](https://img.shields.io/badge/CMC-2025-blue)
-- [Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/abs/2504.18458) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444) ![](https://img.shields.io/badge/abs-2025.05-red)
 
 
