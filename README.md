@@ -8,7 +8,7 @@
 
 </div>
 
-Welcome to **Thinking with Images for LVLMs: A Survey**! This repository serves as the first systematic and comprehensive overview of pivotal research dedicated to enabling Large Vision-Language Models (LVLMs) to truly think with images. We delve into how these sophisticated models are evolving beyond mere pattern recognition, acquiring capabilities for intricate reasoning, nuanced understanding, and dynamic interaction by processing and interpreting visual information in cognitive-inspired ways.
+Welcome to the Awesome-Think-With-Images repository! This repository serves as the first systematic and comprehensive curated collection of pivotal research dedicated to enabling LVLMs to truly think with images. We delve into how these sophisticated models are evolving beyond mere pattern recognition, acquiring capabilities for intricate reasoning, nuanced understanding, and dynamic interaction by processing and interpreting visual information in cognitive-inspired ways.
 
 This collection is for researchers, developers, and enthusiasts eager to explore the forefront of:
 *   **Prompt-Based Innovation:** How LVLMs can guide visual understanding and generation.
