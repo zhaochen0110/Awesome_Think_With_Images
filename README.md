@@ -1,7 +1,7 @@
 # Thinking with Images for LVLMs: A Survey
 
 <div align="center">
-  <img src="docs/logo.png" alt="Logo" width="300">
+  <img src="logo.png" alt="Logo" width="300">
   <h1 align="center">Making LVLMs Truly See & Think.</h1>
   
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) 
