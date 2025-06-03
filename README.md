@@ -23,7 +23,8 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 ## 🔔 News
 
 - [2025-06] We created this repository to maintain a paper list on Awesome-Think-With-Images. The relevant survey paper will be released soon. Contributions are welcome!
-  
+
+- [2025-05] We are excited to release **OpenThinkIMG**, the first dedicated end-to-end open-source framework designed to empower LVLMs to truly **think with images**! For ease of use, we've configured a Docker environment. We warmly invite the community to explore, use, and contribute to OpenThinkIMG: [https://github.com/OpenThinkIMG/OpenThinkIMG](https://github.com/OpenThinkIMG/OpenThinkIMG)
 
 ---
 
