@@ -96,7 +96,7 @@ Tailoring pre-trained models for visual reasoning through targeted fine-tuning o
 
 Harnessing the power of Reinforcement Learning to teach models how to reason with images through trial, error, and reward. These approaches enable agents to learn complex visual behaviors, tool interactions, and even intrinsic motivation for exploration.
 
-- [Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning](https://arxiv.org/abs/2402.11081) ![](https://img.shields.io/badge/abs-2024.02-red)
+- [Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.20272) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](https://arxiv.org/abs/2501.13926) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/abs/2503.06520) ![](https://img.shields.io/badge/abs-2025.03-red)
