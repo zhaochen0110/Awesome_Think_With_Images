@@ -134,5 +134,9 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 - [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929) ![](https://img.shields.io/badge/abs-2025.06-red)
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zhaochen0110/Awesome_Think_With_Images&type=Date)](https://www.star-history.com/#zhaochen0110/Awesome_Think_With_Images&Date)
+
 
 
