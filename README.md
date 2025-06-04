@@ -131,7 +131,7 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 - [MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models](https://arxiv.org/abs/2504.03641) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [PointArena: Probing Multimodal Grounding Through Language-Guided Pointing](https://arxiv.org/abs/2505.09990) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444) ![](https://img.shields.io/badge/abs-2025.05-red)
-
+- [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929) ![](https://img.shields.io/badge/abs-2025.06-red)
 
 
 
