@@ -73,7 +73,9 @@ Tailoring pre-trained models for visual reasoning through targeted fine-tuning o
 - [Minigpt-5: Interleaved vision-and-language generation via generative vokens](https://arxiv.org/abs/2310.02239) ![](https://img.shields.io/badge/abs-2023.10-red)
 - [LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents](https://arxiv.org/abs/2311.05437) ![](https://img.shields.io/badge/abs-2023.11-red)
 - [Generative multimodal models are in-context learners](https://arxiv.org/abs/2312.13286) ![](https://img.shields.io/badge/abs-2023.12-red)
+- [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/abs-2023.12-red)
 - [CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations](https://arxiv.org/abs/2402.04236) ![](https://img.shields.io/badge/abs-2024.02-red)
+- [Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models](https://arxiv.org/abs/2403.16999) ![](https://img.shields.io/badge/abs-2024.03-red)
 - [Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models](https://arxiv.org/abs/2403.01299) ![](https://img.shields.io/badge/abs-2024.03-red)
 - [Instruction-Guided Visual Masking](https://arxiv.org/abs/2405.19783) ![](https://img.shields.io/badge/abs-2024.05-red)
 - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818) ![](https://img.shields.io/badge/abs-2024.05-red)
@@ -87,9 +89,13 @@ Tailoring pre-trained models for visual reasoning through targeted fine-tuning o
 - [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/abs/2501.07542) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](https://arxiv.org/abs/2503.10639) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Cot-vla: Visual chain-of-thought reasoning for vision-language-action models](https://arxiv.org/abs/2503.22020) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [CMMCoT: Enhancing Complex Multi-Image Comprehension via Multi-Modal Chain-of-Thought and Memory Augmentation](https://arxiv.org/abs/2503.05255) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset](https://arxiv.org/abs/2505.09568) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Emerging properties in unified multimodal pretraining](https://arxiv.org/abs/2505.14683) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://arxiv.org/abs/2505.10557) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Don’t Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation](https://arxiv.org/pdf/2505.18842) ![](https://img.shields.io/badge/abs-2025.05-red)
 
 ---
 
