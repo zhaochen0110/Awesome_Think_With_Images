@@ -127,6 +127,7 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 - [Grounded Reinforcement Learning for Visual Reasoning](https://arxiv.org/abs/2505.23678) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [PixelThink: Towards Efficient Chain-of-Pixel Reasoning] (https://arxiv.org/abs/2505.23727) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning] (https://arxiv.org/abs/2505.17022) ![](https://img.shields.io/badge/abs-2025.05-red)
+- OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning (https://arxiv.org/abs/2505.17163)  ![](https://img.shields.io/badge/abs-2025.05-red)  
 - [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank] (https://arxiv.org/abs/2505.14460)  ![](https://img.shields.io/badge/abs-2025.05-red)
 
 ---
