@@ -65,6 +65,7 @@ Unlocking visual intelligence through the art and science of prompting. These me
 - [T2i-r1: Reinforcing image generation with collaborative semantic-level and token-level cot](https://arxiv.org/abs/2505.00703) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.15510) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [Visual Abstract Thinking Empowers Multimodal Reasoning](https://arxiv.org/abs/2505.20164) ![](https://img.shields.io/badge/abs-2025.05-red)
 
 ## 🎓 Supervised Fine-Tuning (SFT) based Methods for Reasoning with Images
 
