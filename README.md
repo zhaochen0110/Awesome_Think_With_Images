@@ -101,6 +101,7 @@ Tailoring pre-trained models for visual reasoning through targeted fine-tuning o
 - [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://arxiv.org/abs/2505.10557) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Don’t Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation](https://arxiv.org/pdf/2505.18842) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/pdf/2505.14231) ![](https://img.shields.io/badge/abs-2025.05-red)
 
 ---
 
