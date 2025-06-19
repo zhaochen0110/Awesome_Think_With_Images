@@ -133,6 +133,7 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 - [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022) ![](https://img.shields.io/badge/abs-2025.05-red)
 - OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning(https://arxiv.org/abs/2505.17163)  ![](https://img.shields.io/badge/abs-2025.05-red)  
 - [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460)  ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/abs-2025.06-red)
 
 ---
 
@@ -150,7 +151,6 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 - [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/abs/2505.13444) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps] (https://arxiv.org/abs/2505.18675) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [PhyX: Does Your Model Have the "Wits" for Physical Reasoning?](https://arxiv.org/abs/2505.15929) ![](https://img.shields.io/badge/abs-2025.06-red)
-- - [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/abs-2025.06-red)
 
 
 
