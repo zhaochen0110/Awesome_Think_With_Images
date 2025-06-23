@@ -104,7 +104,7 @@ Tailoring pre-trained models for visual reasoning through targeted fine-tuning o
 - [Don’t Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation](https://arxiv.org/pdf/2505.18842) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/pdf/2505.14231) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [VGR: Visual Grounded Reasoning](https://arxiv.org/abs/2506.11991) ![](https://img.shields.io/badge/abs-2025.06-red)
-
+- [Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification](https://vts-v.github.io/) ![](https://img.shields.io/badge/abs-2025.06-red)
 ---
 
 ## 🏆 RL-based Methods for Reasoning with Images
