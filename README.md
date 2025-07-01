@@ -87,16 +87,20 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 
 ### ➤ Prompt-Based Approaches
 *Leveraging in-context learning to guide tool use without parameter updates.*
+- [Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598) ![](https://img.shields.io/badge/abs-2022.04-red)
+- [PromptCap: Prompt-Guided Task-Aware Image Captioning](https://arxiv.org/abs/2211.09699) ![](https://img.shields.io/badge/abs-2022.11-red)
 - [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/abs-2023.03-red)
+- [What does CLIP know about a red circle? Visual prompt engineering for VLMs](https://arxiv.org/abs/2304.06712) ![](https://img.shields.io/badge/abs-2023.04-red)
 - [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/abs/2310.11441) ![](https://img.shields.io/badge/abs-2023.10-red)
-- [Dettoolchain: A new prompting paradigm to unleash detection ability of MLLM](https://arxiv.org/abs/2403.12488) ![](https://img.shields.io/badge/abs-2024.03-red)
+- [DetToolChain: A New Prompting Paradigm to Unleash Detection Ability of MLLM](https://arxiv.org/abs/2403.12488) ![](https://img.shields.io/badge/abs-2024.03-red)
 - [Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models](https://arxiv.org/abs/2403.12966) ![](https://img.shields.io/badge/abs-2024.03-red)
-- [VipAct: Visual-perception enhancement via specialized vlm agent collaboration and tool-use](https://arxiv.org/abs/2410.16400) ![](https://img.shields.io/badge/abs-2024.10-red)
+- [Mind's Eye of LLMs: Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models](https://arxiv.org/abs/2404.03622) ![](https://img.shields.io/badge/abs-2024.04-red)
 - [ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration](https://arxiv.org/abs/2411.16044) ![](https://img.shields.io/badge/abs-2024.11-red)
+- [DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding](https://arxiv.org/abs/2504.14920) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search](https://arxiv.org/abs/2504.09130) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.15510) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Visual Abstract Thinking Empowers Multimodal Reasoning](https://arxiv.org/abs/2505.20164) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [MLLMs know where to look](https://arxiv.org/abs/2502.17422) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](https://arxiv.org/abs/2502.17422) ![](https://img.shields.io/badge/abs-2025.03-red)
 
 ### ➤ SFT-Based Approaches
 *Fine-tuning models on data demonstrating how to invoke tools and integrate their outputs.*
@@ -137,9 +141,9 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 ### ➤ Prompt-Based Approaches
 *Guiding models to generate code as a transparent, intermediate reasoning step.*
 - [Visual programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) ![](https://img.shields.io/badge/abs-2022.11-red)
-- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) ![](https://img.shields.io/badge/abs-2023.03-red)
 - [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/abs/2303.08128) ![](https://img.shields.io/badge/abs-2023.03-red)
 - [Visual sketchpad: Sketching as a visual chain of thought for multimodal language models](https://arxiv.org/abs/2406.09403) ![](https://img.shields.io/badge/abs-2024.06-red)
+- [VipAct: Visual-perception enhancement via specialized vlm agent collaboration and tool-use](https://arxiv.org/abs/2410.16400) ![](https://img.shields.io/badge/abs-2024.10-red)
 - [SketchAgent: Language-Driven Sequential Sketch Generation](https://arxiv.org/abs/2411.17673) ![](https://img.shields.io/badge/abs-2024.11-red)
 - [CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers?](https://arxiv.org/abs/2412.13810) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [MMFactory: A Universal Solution Search Engine for Vision-Language Tasks](https://arxiv.org/abs/2412.18072) ![](https://img.shields.io/badge/abs-2024.12-red)
