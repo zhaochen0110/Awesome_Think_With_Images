@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="logo.png" alt="Logo" width="300">
-  <h1 align="center">Thinking with Images: The Next Frontier in Multimodal AI</h1>
+  <h1 align="center">Thinking with Images: Next Frontier in Multimodal AI</h1>
   <p align="center">
     This repository accompanies our survey paper: <br>
     <a href="https://arxiv.org/pdf/2506.23918"><strong>Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers</strong></a>
