@@ -38,14 +38,14 @@ As detailed in our survey, this paradigm shift unlocks three key capabilities: *
 
 <div align="center">
   <img src="paradigm_comparison.png" alt="Paradigm Comparison" width="800">
-  <p><em><b>Figure 2 from our survey:</b> Conceptual comparison of “Thinking about Images” versus “Thinking with Images”.</em></p>
+  <p><em>Conceptual comparison of “Thinking about Images” versus “Thinking with Images”.</em></p>
 </div>
 
 We structure this collection along a trajectory of increasing cognitive autonomy. This journey unfolds across three key stages, forming the taxonomy of our work:
 
 <div align="center">
   <img src="taxonomy_tree.png" alt="Taxonomy of Thinking with Images" width="800">
-  <p><em><b>Figure 1 from our survey:</b> The taxonomy of "Thinking with Images" organizing the field into core methodologies (across three stages), evaluation benchmarks, and key applications.</em></p>
+  <p><em>The taxonomy of "Thinking with Images" organizing the field into core methodologies (across three stages), evaluation benchmarks, and key applications.</em></p>
 </div>
 
 This collection is for researchers, developers, and enthusiasts eager to explore the forefront of AI that can truly see, reason, and imagine.
@@ -54,7 +54,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 
 
 ## 🔔 News
-
+-   **[2025-07]** We have released ["Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers"](https://arxiv.org/pdf/2506.23918), the first comprehensive survey dedicated to the emerging paradigm of "Think with Images". 
 -   **[2025-06]** We created this repository to maintain a paper list on Awesome-Think-With-Images. Contributions are welcome!
 -   **[2025-05]** We are excited to release **[OpenThinkIMG](https://github.com/OpenThinkIMG/OpenThinkIMG)**, the first dedicated end-to-end open-source framework designed to empower LVLMs to truly **think with images**! For ease of use, we've configured a Docker environment. We warmly invite the community to explore, use, and contribute.
 
