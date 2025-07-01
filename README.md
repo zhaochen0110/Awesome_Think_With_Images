@@ -129,9 +129,10 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](https://arxiv.org/abs/2505.15436) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/pdf/2505.14231) ![](https://img.shields.io/badge/abs-2025.05-red)
-
+- [VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection](https://arxiv.org/pdf/2505.20289) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/pdf/2505.21457) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/abs-2025.06-red)
 ---
 
 ## 💻 Stage 2: Programmatic Visual Manipulation
@@ -208,6 +209,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](https://arxiv.org/abs/2505.17017) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving](https://arxiv.org/abs/2505.17685)![](https://img.shields.io/badge/abs-2025.05-red)
+- [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)![](https://img.shields.io/badge/abs-2025.06-red)
 
 ---
 
