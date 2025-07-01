@@ -122,16 +122,16 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 *Using rewards to train agents to discover optimal tool-use strategies.*
 - [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/abs/2503.06520) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [GRIT: Teaching MLLMs to Think with Images](https://arxiv.org/abs/2505.15879) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning](httpshttps://arxiv.org/abs/2505.19702) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning](https://arxiv.org/abs/2505.19702) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.12081) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](https://arxiv.org/abs/2505.15436) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/pdf/2505.14231) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection](https://arxiv.org/pdf/2505.20289) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/pdf/2505.21457) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection](https://arxiv.org/abs/2505.20289) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/abs-2025.06-red)
 ---
 
