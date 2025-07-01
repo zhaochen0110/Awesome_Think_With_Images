@@ -8,10 +8,6 @@
     <a href="https://arxiv.org/pdf/2506.23918"><strong>Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers</strong></a>
   </p>
   
-  <p align="center">
-    The first systematic collection of research charting the paradigm shift from models that merely <i>think about</i> images to those that can truly <b>think <i>with</i> images</b>.
-  </p>
-  
   [![Awesome](https://awesome.re/badge.svg)](https://github.com/zhaochen0110/Awesome_Think_With_Images) 
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   ![](https://img.shields.io/github/last-commit/zhaochen0110/Awesome_Think_With_Images?color=green) 
@@ -54,7 +50,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 
 
 ## 🔔 News
--   **[2025-07]** We have released ["Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers"](https://arxiv.org/pdf/2506.23918), the first comprehensive survey dedicated to the emerging paradigm of "Think with Images". 
+-   **[2025-07]** We have released ["Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers"](https://arxiv.org/pdf/2506.23918), the **first comprehensive survey** dedicated to the emerging paradigm of "Think with Images". 
 -   **[2025-06]** We created this repository to maintain a paper list on Awesome-Think-With-Images. Contributions are welcome!
 -   **[2025-05]** We are excited to release **[OpenThinkIMG](https://github.com/OpenThinkIMG/OpenThinkIMG)**, the first dedicated end-to-end open-source framework designed to empower LVLMs to truly **think with images**! For ease of use, we've configured a Docker environment. We warmly invite the community to explore, use, and contribute.
 
