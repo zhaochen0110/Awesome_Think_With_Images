@@ -167,7 +167,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Minigpt-5: Interleaved vision-and-language generation via generative vokens](https://arxiv.org/abs/2310.02239) ![](https://img.shields.io/badge/abs-2023.10-red)
 - [Generative multimodal models are in-context learners](https://arxiv.org/abs/2312.13286) ![](https://img.shields.io/badge/abs-2023.12-red)
 - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818) ![](https://img.shields.io/badge/abs-2024.05-red)
-- [Show-o: One single transformer to unify multimodal understanding and generation](httpshttps://arxiv.org/abs/2408.12528) ![](https://img.shields.io/badge/abs-2024.08-red)
+- [Show-o: One single transformer to unify multimodal understanding and generation](https://arxiv.org/abs/2408.12528) ![](https://img.shields.io/badge/abs-2024.08-red)
 - [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039) ![](https://img.shields.io/badge/abs-2024.08-red)
 - [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869) ![](https://img.shields.io/badge/abs-2024.09-red)
 - [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) ![](https://img.shields.io/badge/abs-2024.10-red)
