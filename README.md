@@ -105,10 +105,13 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations](https://arxiv.org/abs/2402.04236) ![](https://img.shields.io/badge/abs-2024.02-red)
 - [Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models](https://arxiv.org/abs/2403.16999) ![](https://img.shields.io/badge/abs-2024.03-red)
 - [Instruction-Guided Visual Masking](https://arxiv.org/abs/2405.19783) ![](https://img.shields.io/badge/abs-2024.05-red)
+- [From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis](https://arxiv.org/abs/2406.19934) ![](https://img.shields.io/badge/abs-2024.06-red)
 - [TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action](https://arxiv.org/abs/2412.05479) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [CMMCoT: Enhancing Complex Multi-Image Comprehension via Multi-Modal Chain-of-Thought and Memory Augmentation](https://arxiv.org/abs/2503.05255) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Don’t Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation](https://arxiv.org/pdf/2505.18842) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [VGR: Visual Grounded Reasoning](https://arxiv.org/abs/2506.11991) ![](https://img.shields.io/badge/abs-2025.06-red)
+- [Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification](https://arxiv.org/abs/2506.07235) ![](https://img.shields.io/badge/abs-2025.06-red)
 
 
 ### ➤ RL-Based Approaches
@@ -146,6 +149,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 ### ➤ SFT-Based Approaches
 *Distilling programmatic logic into models or using code to bootstrap high-quality training data.*
 - [Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models](https://arxiv.org/abs/2312.03052) ![](https://img.shields.io/badge/abs-2023.12-red)
+- [ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models](https://arxiv.org/abs/2412.07012) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation](https://arxiv.org/abs/2502.14846) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Advancing vision-language models in front-end development via data synthesis](https://arxiv.org/abs/2503.01619) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://arxiv.org/abs/2505.10557) ![](https://img.shields.io/badge/abs-2025.05-red)
@@ -164,22 +168,31 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 ### ➤ SFT-Based Approaches
 *Training on interleaved text-image data to teach models the grammar of multimodal thought.*
 - [Generating images with multimodal language models](https://arxiv.org/abs/2305.17216) ![](https://img.shields.io/badge/abs-2023.05-red)
+- [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519) ![](https://img.shields.io/badge/abs-2023.09-red)
 - [Minigpt-5: Interleaved vision-and-language generation via generative vokens](https://arxiv.org/abs/2310.02239) ![](https://img.shields.io/badge/abs-2023.10-red)
 - [Generative multimodal models are in-context learners](https://arxiv.org/abs/2312.13286) ![](https://img.shields.io/badge/abs-2023.12-red)
+- [SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation](https://arxiv.org/abs/2404.14396) ![](https://img.shields.io/badge/abs-2024.04-red)
 - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818) ![](https://img.shields.io/badge/abs-2024.05-red)
 - [Show-o: One single transformer to unify multimodal understanding and generation](https://arxiv.org/abs/2408.12528) ![](https://img.shields.io/badge/abs-2024.08-red)
 - [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039) ![](https://img.shields.io/badge/abs-2024.08-red)
 - [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869) ![](https://img.shields.io/badge/abs-2024.09-red)
+- [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) ![](https://img.shields.io/badge/abs-2024.09-red)
 - [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) ![](https://img.shields.io/badge/abs-2024.10-red)
 - [Metamorph: Multimodal understanding and generation via instruction tuning](https://arxiv.org/abs/2412.14164) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [LMFusion: Adapting Pretrained Language Models for Multimodal Generation](https://arxiv.org/abs/2412.15188) ![](https://img.shields.io/badge/abs-2024.12-red)
+- [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069) ![](https://img.shields.io/badge/abs-2024.12-red)
+- [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/abs/2501.00289) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling](https://arxiv.org/abs/2501.17811) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/abs/2501.07542) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](https://arxiv.org/abs/2503.10639) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Cot-vla: Visual chain-of-thought reasoning for vision-language-action models](https://arxiv.org/abs/2503.22020) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [Transfer between Modalities with MetaQueries](https://arxiv.org/abs/2504.06256) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset](https://arxiv.org/abs/2505.09568) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Emerging properties in unified multimodal pretraining](https://arxiv.org/abs/2505.14683) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation](https://arxiv.org/abs/2505.05472) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2506.17202) ![](https://img.shields.io/badge/abs-2025.06-red)
+- [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) ![](https://img.shields.io/badge/abs-2025.06-red)
 
 
 ### ➤ RL-Based Approaches
