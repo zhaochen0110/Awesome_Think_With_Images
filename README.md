@@ -14,6 +14,20 @@
 
 </div>
 
+<div align="center">
+  <a href="https://arxiv.org/pdf/2505.08617">
+    <img src="https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
+  </a>
+  <a href="https://github.com/zhaochen0110/OpenThinkIMG">
+    <img src="https://img.shields.io/badge/OpenThinkIMG-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white" alt="Github">
+  </a>
+  <a href="https://huggingface.co/collections/Warrieryes/openthinkimg-68244a63e97a24d9b7ffcde9">
+    <img src="https://img.shields.io/badge/OpenThinkIMG_Collection-fcd022?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face Collection">
+  </a>
+  <a href="https://x.com/suzhaochen0110/status/1922481570453074070?s=46">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
 
 ## Introduction
 
