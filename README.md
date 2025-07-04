@@ -205,6 +205,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](https://arxiv.org/abs/2501.13926) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Visual Planning: Let's Think Only with Images](https://arxiv.org/abs/2505.11409) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT](https://arxiv.org/abs/2505.00703) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO](https://arxiv.org/pdf/2505.13031) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](https://arxiv.org/abs/2505.17017) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) ![](https://img.shields.io/badge/abs-2025.03-red)
