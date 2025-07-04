@@ -241,14 +241,11 @@ We welcome contributions! If you have a paper that fits into this framework, ple
 If you find our survey and this repository useful for your research, please consider citing our work:
 
 ```bibtex
-@misc{su2025thinkingimagesmultimodalreasoning,
-      title={Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers}, 
-      author={Zhaochen Su and Peng Xia and Hangyu Guo and Zhenhua Liu and Yan Ma and Xiaoye Qu and Jiaqi Liu and Yanshu Li and Kaide Zeng and Zhengyuan Yang and Linjie Li and Yu Cheng and Heng Ji and Junxian He and Yi R. and Fung},
-      year={2025},
-      eprint={2506.23918},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.23918}, 
+@article{su2025thinking,
+  title={Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers},
+  author={Su, Zhaochen and Xia, Peng and Guo, Hangyu and Liu, Zhenhua and Ma, Yan and Qu, Xiaoye and Liu, Jiaqi and Li, Yanshu and Zeng, Kaide and Yang, Zhengyuan and others},
+  journal={arXiv preprint arXiv:2506.23918},
+  year={2025}
 }
 ```
 
