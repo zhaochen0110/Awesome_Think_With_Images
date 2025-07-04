@@ -233,6 +233,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning](https://arxiv.org/abs/2505.17163)  ![](https://img.shields.io/badge/abs-2025.05-red)  
 - [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460)  ![](https://img.shields.io/badge/abs-2025.05-red)
 - [GEMeX-ThinkVG: Towards Thinking with Visual Grounding in Medical VQA via Reinforcement Learning](https://arxiv.org/pdf/2506.17939) ![](https://img.shields.io/badge/abs-2025.06-red)
+- [ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations](https://arxiv.org/abs/2505.14404)  ![](https://img.shields.io/badge/abs-2025.05-red)
 ---
 
 ## 🙏 Contributing & Citation
