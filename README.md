@@ -147,6 +147,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection](https://arxiv.org/abs/2505.20289) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/abs-2025.06-red)
+- [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348) ![](https://img.shields.io/badge/abs-2025.07-red)
 ---
 
 ## 💻 Stage 2: Programmatic Visual Manipulation
