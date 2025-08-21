@@ -130,6 +130,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Don’t Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation](https://arxiv.org/pdf/2505.18842) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [VGR: Visual Grounded Reasoning](https://arxiv.org/abs/2506.11991) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification](https://arxiv.org/abs/2506.07235) ![](https://img.shields.io/badge/abs-2025.06-red)
+- [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748) ![](https://img.shields.io/badge/abs-2025.08-red)
 
 
 ### ➤ RL-Based Approaches
@@ -148,6 +149,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO](https://arxiv.org/abs/2505.21457) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348) ![](https://img.shields.io/badge/abs-2025.07-red)
+- [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748) ![](https://img.shields.io/badge/abs-2025.08-red)
 ---
 
 ## 💻 Stage 2: Programmatic Visual Manipulation
@@ -216,6 +218,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2506.17202) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) ![](https://img.shields.io/badge/abs-2025.06-red)
+- [Qwen-Image Technical Report](https://arxiv.org/abs/2508.02324) ![](https://img.shields.io/badge/abs-2025.08-red)
 
 
 ### ➤ RL-Based Approaches
@@ -229,6 +232,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving](https://arxiv.org/abs/2505.17685)![](https://img.shields.io/badge/abs-2025.05-red)
 - [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596)![](https://img.shields.io/badge/abs-2025.06-red)
+- [Qwen-Image Technical Report](https://arxiv.org/abs/2508.02324) ![](https://img.shields.io/badge/abs-2025.08-red)
 
 ---
 
