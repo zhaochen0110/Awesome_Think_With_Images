@@ -173,12 +173,14 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation](https://arxiv.org/abs/2502.14846) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Advancing vision-language models in front-end development via data synthesis](https://arxiv.org/abs/2503.01619) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://arxiv.org/abs/2505.10557) ![](https://img.shields.io/badge/abs-2025.05-red)
-- [PyVision: Agentic Vision with Dynamic Tooling](https://arxiv.org/abs/2507.07998) ![https://img.shields.io/badge/abs-2025.07-red]
+- [PyVision: Agentic Vision with Dynamic Tooling](https://arxiv.org/abs/2507.07998) ![](https://img.shields.io/badge/abs-2025.07-red)
+- [Thyme: Think Beyond Images](https://arxiv.org/abs/2508.11630) ![](https://img.shields.io/badge/abs-2025.08-red)
 
 ### ➤ RL-Based Approaches
 *Optimizing code generation policies using feedback from execution results.*
 - [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [ProgRM: Build Better GUI Agents with Progress Rewards](https://arxiv.org/abs/2505.18121) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Thyme: Think Beyond Images](https://arxiv.org/abs/2508.11630) ![](https://img.shields.io/badge/abs-2025.08-red)
 
 ---
 
