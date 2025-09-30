@@ -141,6 +141,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.12081) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/pdf/2505.19255) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](https://arxiv.org/abs/2505.15436) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) ![](https://img.shields.io/badge/abs-2025.05-red)
