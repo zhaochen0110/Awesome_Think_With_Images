@@ -136,6 +136,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 ### ➤ RL-Based Approaches
 *Using rewards to train agents to discover optimal tool-use strategies.*
 - [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/abs/2503.06520) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [DWIM: Towards Tool-aware Visual Reasoning via Discrepancy-aware Workflow Generation & Instruct-Masking Tuning] (https://arxiv.org/pdf/2503.19263) ![https://img.shields.io/badge/abs-2025.03-red]
 - [GRIT: Teaching MLLMs to Think with Images](https://arxiv.org/abs/2505.15879) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning](https://arxiv.org/abs/2505.19702) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) ![](https://img.shields.io/badge/abs-2025.05-red)
@@ -151,6 +152,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning](https://arxiv.org/abs/2507.13348) ![](https://img.shields.io/badge/abs-2025.07-red)
 - [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748) ![](https://img.shields.io/badge/abs-2025.08-red)
+- [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/pdf/2505.19255) ![https://img.shields.io/badge/abs-2025.09-red]
 ---
 
 ## 💻 Stage 2: Programmatic Visual Manipulation
