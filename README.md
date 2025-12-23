@@ -131,6 +131,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [VGR: Visual Grounded Reasoning](https://arxiv.org/abs/2506.11991) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification](https://arxiv.org/abs/2506.07235) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748) ![](https://img.shields.io/badge/abs-2025.08-red)
+- [SceneCOT: Eliciting Grounded Chain-of-Thought Reasoning in 3D Scenes](https://www.arxiv.org/abs/2510.16714) ![](https://img.shields.io/badge/abs-2025.10-red)
 
 
 ### ➤ RL-Based Approaches
