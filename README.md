@@ -172,6 +172,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [MMFactory: A Universal Solution Search Engine for Vision-Language Tasks](https://arxiv.org/abs/2412.18072) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding](https://arxiv.org/abs/2501.05452) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Interactive Sketchpad: A Multimodal Tutoring System for Collaborative, Visual Problem-Solving](https://arxiv.org/abs/2503.16434) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [Agentic Vision with Dynamic Tooling](https://arxiv.org/abs/2507.07998) ![](https://img.shields.io/badge/abs-2025.07-red)
 
 ### ➤ SFT-Based Approaches
 *Distilling programmatic logic into models or using code to bootstrap high-quality training data.*
@@ -264,6 +265,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank](https://arxiv.org/abs/2505.14460)  ![](https://img.shields.io/badge/abs-2025.05-red)
 - [GEMeX-ThinkVG: Towards Thinking with Visual Grounding in Medical VQA via Reinforcement Learning](https://arxiv.org/pdf/2506.17939) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations](https://arxiv.org/abs/2505.14404)  ![](https://img.shields.io/badge/abs-2025.05-red)
+- [TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images Reasoning](https://arxiv.org/abs/2511.01833)  ![](https://img.shields.io/badge/abs-2025.11-red)
 ---
 
 ## 🙏 Contributing & Citation
