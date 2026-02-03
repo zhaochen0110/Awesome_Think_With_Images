@@ -146,6 +146,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/pdf/2505.19255) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](https://arxiv.org/abs/2505.15436) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/abs/2505.19255)![https://img.shields.io/badge/abs-2025.05-red]
 - [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) ![](https://img.shields.io/badge/abs-2025.05-red)
@@ -156,6 +157,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748) ![](https://img.shields.io/badge/abs-2025.08-red)
 - [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/pdf/2505.19255) ![https://img.shields.io/badge/abs-2025.09-red]
 - [Thinking with Images via Self-Calling Agent](https://arxiv.org/abs/2512.08511) ![https://img.shields.io/badge/abs-2025.12-red]
+
   
 ---
 
