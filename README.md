@@ -115,6 +115,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.15510) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Visual Abstract Thinking Empowers Multimodal Reasoning](https://arxiv.org/abs/2505.20164) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](https://arxiv.org/abs/2502.17422) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search](https://arxiv.org/pdf/2512.18745)![](https://img.shields.io/badge/abs-2025.12-red)
 
 ### ➤ SFT-Based Approaches
 *Fine-tuning models on data demonstrating how to invoke tools and integrate their outputs.*
@@ -207,15 +208,9 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation](https://arxiv.org/abs/2404.14396) ![](https://img.shields.io/badge/abs-2024.04-red)
 - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818) ![](https://img.shields.io/badge/abs-2024.05-red)
 - [Show-o: One single transformer to unify multimodal understanding and generation](https://arxiv.org/abs/2408.12528) ![](https://img.shields.io/badge/abs-2024.08-red)
-- [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039) ![](https://img.shields.io/badge/abs-2024.08-red)
-- [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869) ![](https://img.shields.io/badge/abs-2024.09-red)
-- [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) ![](https://img.shields.io/badge/abs-2024.09-red)
-- [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) ![](https://img.shields.io/badge/abs-2024.10-red)
 - [Metamorph: Multimodal understanding and generation via instruction tuning](https://arxiv.org/abs/2412.14164) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [LMFusion: Adapting Pretrained Language Models for Multimodal Generation](https://arxiv.org/abs/2412.15188) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069) ![](https://img.shields.io/badge/abs-2024.12-red)
-- [Dual Diffusion for Unified Image Generation and Understanding](https://arxiv.org/abs/2501.00289) ![](https://img.shields.io/badge/abs-2025.01-red)
-- [Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling](https://arxiv.org/abs/2501.17811) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/abs/2501.07542) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](https://arxiv.org/abs/2503.10639) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Cot-vla: Visual chain-of-thought reasoning for vision-language-action models](https://arxiv.org/abs/2503.22020) ![](https://img.shields.io/badge/abs-2025.03-red)
@@ -226,7 +221,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2506.17202) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) ![](https://img.shields.io/badge/abs-2025.06-red)
-- [Qwen-Image Technical Report](https://arxiv.org/abs/2508.02324) ![](https://img.shields.io/badge/abs-2025.08-red)
+- [MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning](https://arxiv.org/pdf/2510.14958) ![](https://img.shields.io/badge/abs-2025.12-red)
 
 
 ### ➤ RL-Based Approaches
