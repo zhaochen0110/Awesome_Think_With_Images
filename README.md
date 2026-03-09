@@ -64,9 +64,12 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 
 
 ## 🔔 News
--   **[2025-07]** We have released ["Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers"](https://arxiv.org/pdf/2506.23918), the **first comprehensive survey** dedicated to the emerging paradigm of "Think with Images". 
--   **[2025-06]** We created this repository to maintain a paper list on Awesome-Think-With-Images. Contributions are welcome!
--   **[2025-05]** We are excited to release **[OpenThinkIMG](https://github.com/OpenThinkIMG/OpenThinkIMG)**, the first dedicated end-to-end open-source framework designed to empower LVLMs to truly **think with images**! For ease of use, we've configured a Docker environment. We warmly invite the community to explore, use, and contribute.
+- **[2026-02]** We released **[AgentVista](https://arxiv.org/pdf/2602.23166)**, the first benchmark for **multimodal agents** on realistic, ultra-challenging visual scenarios requiring **long-horizon hybrid tool use**.
+- **[2026-01]** Our survey **[Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://arxiv.org/pdf/2506.23918)** reached **100 citations**, and we also updated the paper list with newly released papers in this rapidly evolving area.
+- **[2025-10]** We reached **1,000 stars** on this repository. Thanks for the support from the community!
+- **[2025-07]** We have released ["Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers"](https://arxiv.org/pdf/2506.23918), the **first comprehensive survey** dedicated to the emerging paradigm of "Think with Images". 
+- **[2025-06]** We created this repository to maintain a paper list on Awesome-Think-With-Images. Contributions are welcome!
+- **[2025-05]** We are excited to release **[OpenThinkIMG](https://github.com/OpenThinkIMG/OpenThinkIMG)**, the first dedicated end-to-end open-source framework designed to empower LVLMs to truly **think with images**! For ease of use, we've configured a Docker environment. We warmly invite the community to explore, use, and contribute.
 
 ---
 
