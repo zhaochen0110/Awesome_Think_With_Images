@@ -255,6 +255,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Vgbench: Evaluating large language models on vector graphics understanding and generation](https://arxiv.org/pdf/2407.10972) ![](https://img.shields.io/badge/abs-2024.07-red)
 - [ARC Prize 2024: Technical Report](https://arxiv.org/abs/2412.04604) ![](https://img.shields.io/badge/abs-2024.12-red)
 - [CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models](https://arxiv.org/pdf/2412.12932) ![](https://img.shields.io/badge/abs-2024.12-red)
+- [Divide, conquer and combine: A training-free framework for high-resolution image perception in multimodal large language models](https://arxiv.org/abs/2408.15556) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation](https://arxiv.org/abs/2504.00043) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models](https://arxiv.org/abs/2504.03641) ![](https://img.shields.io/badge/abs-2025.04-red)
