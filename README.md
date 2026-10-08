@@ -160,7 +160,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748) ![](https://img.shields.io/badge/abs-2025.08-red)
 - [VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use](https://arxiv.org/pdf/2505.19255) ![https://img.shields.io/badge/abs-2025.09-red]
 - [Thinking with Images via Self-Calling Agent](https://arxiv.org/abs/2512.08511) ![https://img.shields.io/badge/abs-2025.12-red]
-
+- [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018) ![](https://img.shields.io/badge/abs-2025.11-red)
   
 ---
 
