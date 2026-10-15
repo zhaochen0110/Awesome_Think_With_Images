@@ -139,7 +139,9 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 
 
 ### ➤ RL-Based Approaches
+
 *Using rewards to train agents to discover optimal tool-use strategies.*
+- [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) ![](https://img.shields.io/badge/abs-2026.01-red) [[Code](https://github.com/MCG-NJU/Video-o3)]
 - [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/abs/2503.06520) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [DWIM: Towards Tool-aware Visual Reasoning via Discrepancy-aware Workflow Generation & Instruct-Masking Tuning] (https://arxiv.org/pdf/2503.19263) ![https://img.shields.io/badge/abs-2025.03-red]
 - [GRIT: Teaching MLLMs to Think with Images](https://arxiv.org/abs/2505.15879) ![](https://img.shields.io/badge/abs-2025.05-red)
