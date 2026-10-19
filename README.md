@@ -119,6 +119,7 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 - [Visual Abstract Thinking Empowers Multimodal Reasoning](https://arxiv.org/abs/2505.20164) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs](https://arxiv.org/abs/2502.17422) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search](https://arxiv.org/pdf/2512.18745)![](https://img.shields.io/badge/abs-2025.12-red)
+- [Reasoning with Image Generation](https://arxiv.org/abs/2609.16409) ![](https://img.shields.io/badge/abs-2026.09-red)
 
 ### ➤ SFT-Based Approaches
 *Fine-tuning models on data demonstrating how to invoke tools and integrate their outputs.*
